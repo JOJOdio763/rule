@@ -255,7 +255,7 @@ PROCESS-NAME,qBittorrent
 PROCESS-NAME,qbittorrent*
 PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,ss-local
-PROCESS-NAME,tailscaled
+#PROCESS-NAME,tailscaled
 PROCESS-NAME,transmission-daemon
 PROCESS-NAME,transmission-qt
 PROCESS-NAME,trojan
