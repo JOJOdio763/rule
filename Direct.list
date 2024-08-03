@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,log.tailscale.io
 DOMAIN-SUFFIX,stun.playstation.net
+DOMAIN-SUFFIX,kodcloud.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,autopatchcn
