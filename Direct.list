@@ -814,6 +814,7 @@ PROCESS-NAME,privoxy
 PROCESS-NAME,qBittorrent
 PROCESS-NAME,qbittorrent*
 PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,qbittorrent-ee-nox
 PROCESS-NAME,ss-local
 PROCESS-NAME,tailscaled
 PROCESS-NAME,transmission-daemon
